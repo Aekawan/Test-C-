@@ -4,7 +4,6 @@
  
 Code: 
 
-           ```
            public Index() {
              List<int> yearList = new List<int>();
               int startYear = 2500 - 543;
@@ -22,7 +21,7 @@ Code:
               ViewBag.year = yearList;
               return View();
             }
-```
+
 
 #ออกแบบ SQL
 ![Image](https://www.img.in.th/images/5a9748b10cf7357a4a507eb6656855d9.png)
