@@ -25,7 +25,9 @@ Code:
 ```
 
 #ออกแบบ SQL
+![Image](https://www.img.in.th/images/5a9748b10cf7357a4a507eb6656855d9.png)
 
+Format: ![Alt text](url)
 
  
 #ข้อ 2 เขียน SQL
